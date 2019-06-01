@@ -1,1 +1,1 @@
-Oauth2 com DJANGO.
+Oauth2 com DJANGO e REST FRAMEWORK.
