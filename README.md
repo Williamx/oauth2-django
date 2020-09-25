@@ -1,2 +1,3 @@
-Oauth2 com DJANGO e REST FRAMEWORK. 
---ESQUELETO--
+ESQUELETO
+===
+Implementacao do Oauth2 no DJANGO e REST FRAMEWORK. 
