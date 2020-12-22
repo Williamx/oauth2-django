@@ -7,7 +7,7 @@
 ![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/Williamx/oauth2-django/oauth2-django)
 ![GitHub language count](https://img.shields.io/github/languages/count/Williamx/oauth2-django)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-<br />
+<br /><br />
 ESQUELETO
 ===
 DJANGO and REST FRAMEWORK. 
